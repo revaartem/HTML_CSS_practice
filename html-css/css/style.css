@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    
+    background: url('../img/low_poly_banner_design_1711.jpg');
+    
+    font-family: Arial;
+    line-height: 1.5;
+    font-size: 25px;
+}
+.card {
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px 
+        #ccc;
+    border-radius: 10px
+        
+}
+
+.card-undertitle {
+    font-size: 17px;
+    text-align: center;
+    margin: -4px;
+    color: black;
+}
+
+.card-photo {
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 60%;
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    margin: 3px;
+}
+
+.card-text {
+    font-size: 15px;
+}
+
+.card-subtitle {
+    font-size: 15px;
+    color: black;
+    margin-bottom: 3px;
+}
+
+.card-list {
+    padding-left: 0px;
+    list-style-position: inside;
+    margin: 5px;
+}
